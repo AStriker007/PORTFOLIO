@@ -1,0 +1,25 @@
+{
+  "name": "port",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AStriker007/PORTFOLIO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AStriker007/PORTFOLIO/issues"
+  },
+  "homepage": "https://github.com/AStriker007/PORTFOLIO#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.18"
+  },
+  "dependencies": {
+    "vite": "^2.7.13"
+  }
+}
